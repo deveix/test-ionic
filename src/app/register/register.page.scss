@@ -1,0 +1,38 @@
+ion-toolbar {
+  ion-icon {
+    font-size: 30px;
+    color: var(--ion-color-primary);
+    padding: 10px 0;
+  }
+  ion-title {
+    color: var(--ion-color-primary);
+    font-weight: bold;
+    padding: 10px 0;
+  }
+  
+}
+.container {
+  margin-top: 10px;
+}
+.breif{
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+  line-height: 18px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+ion-list {
+  padding-right: 20px;
+  ion-item {
+    margin-bottom: 20px;
+  }
+}
+.terms_policy{
+  font-size: 0.9rem;
+  text-align: center;
+  a {
+    color: var(--ion-color-secondary, #3880ff);
+  }
+}
